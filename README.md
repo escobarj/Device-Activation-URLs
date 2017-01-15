@@ -1,24 +1,7 @@
-# Activation URLs
+# Device Activation URLs
 
-## A&E
-
-http://www.aetv.com/activate
-
-- Amazon Fire TV
-- Apple TV
-- Roku
-
-## HBO GO
-
-http://www.hbogo.com/activate/
-
-- Fire TV
-- Android TV
-- Apple TV
-- PlayStation 3
-- PlayStation 4
-- Roku
-- Samsung Smart TV
-- TiVo
-- Xbox 360
-- Xbox One
+- [A&E](http://www.aetv.com/activate)
+- [HBO GO](http://www.hbogo.com/activate)
+- [FX](http://fxnetworks.com/activate)
+- [SHOWTIME ANYTIME](http://showtimeanytime.com/activate)
+    + Redirects to app on mobile
